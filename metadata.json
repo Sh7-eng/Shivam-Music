@@ -1,0 +1,7 @@
+{
+  "name": "SHIVAM MUSIC",
+  "description": "Modern music streaming with AI mood playlist generator, search, synced lyrics, and audio playback",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
